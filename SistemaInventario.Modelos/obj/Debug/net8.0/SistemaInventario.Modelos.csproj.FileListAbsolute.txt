@@ -1,0 +1,16 @@
+C:\Proyectos_UDEMY\SistemaInventario\SistemaInventario.Modelos\bin\Debug\net8.0\SistemaInventario.Modelos.deps.json
+C:\Proyectos_UDEMY\SistemaInventario\SistemaInventario.Modelos\bin\Debug\net8.0\SistemaInventario.Modelos.dll
+C:\Proyectos_UDEMY\SistemaInventario\SistemaInventario.Modelos\bin\Debug\net8.0\SistemaInventario.Modelos.pdb
+C:\Proyectos_UDEMY\SistemaInventario\SistemaInventario.Modelos\bin\Debug\net8.0\SistemaInventario.Utilidades.dll
+C:\Proyectos_UDEMY\SistemaInventario\SistemaInventario.Modelos\bin\Debug\net8.0\SistemaInventario.Utilidades.pdb
+C:\Proyectos_UDEMY\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.csproj.AssemblyReference.cache
+C:\Proyectos_UDEMY\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos_UDEMY\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.AssemblyInfoInputs.cache
+C:\Proyectos_UDEMY\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.AssemblyInfo.cs
+C:\Proyectos_UDEMY\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.csproj.CoreCompileInputs.cache
+C:\Proyectos_UDEMY\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.sourcelink.json
+C:\Proyectos_UDEMY\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.dll
+C:\Proyectos_UDEMY\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net8.0\refint\SistemaInventario.Modelos.dll
+C:\Proyectos_UDEMY\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.pdb
+C:\Proyectos_UDEMY\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net8.0\ref\SistemaInventario.Modelos.dll
+C:\Proyectos_UDEMY\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaI.5E10B74F.Up2Date
