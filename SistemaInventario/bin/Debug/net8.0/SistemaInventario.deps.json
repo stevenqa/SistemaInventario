@@ -2577,7 +2577,10 @@
           "SistemaInventario.Utilidades": "1.0.0"
         },
         "runtime": {
-          "SistemaInventario.AccesoDatos.dll": {}
+          "SistemaInventario.AccesoDatos.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         },
         "compile": {
           "SistemaInventario.AccesoDatos.dll": {}
@@ -2588,7 +2591,10 @@
           "SistemaInventario.Utilidades": "1.0.0"
         },
         "runtime": {
-          "SistemaInventario.Modelos.dll": {}
+          "SistemaInventario.Modelos.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         },
         "compile": {
           "SistemaInventario.Modelos.dll": {}
@@ -2596,7 +2602,10 @@
       },
       "SistemaInventario.Utilidades/1.0.0": {
         "runtime": {
-          "SistemaInventario.Utilidades.dll": {}
+          "SistemaInventario.Utilidades.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         },
         "compile": {
           "SistemaInventario.Utilidades.dll": {}
