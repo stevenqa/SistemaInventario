@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "Zq8iIgbnAsY=",
+=======
+  "dgSpecHash": "FK7AuVcGxO0=",
+>>>>>>> origin/main
   "success": true,
   "projectFilePath": "C:\\SistemaInventario\\SistemaInventario\\SistemaInventario\\SistemaInventario.csproj",
   "expectedPackageFiles": [
