@@ -17,83 +17,83 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SistemaInventario
 build_property.RootNamespace = SistemaInventario
-build_property.ProjectDir = C:\Proyectos_UDEMY\SistemaInventario\SistemaInventario\
+build_property.ProjectDir = C:\SistemaInventario\SistemaInventario\SistemaInventario\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = C:\Proyectos_UDEMY\SistemaInventario\SistemaInventario
+build_property.MSBuildProjectDirectory = C:\SistemaInventario\SistemaInventario\SistemaInventario
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Proyectos_UDEMY/SistemaInventario/SistemaInventario/Areas/Admin/Views/Bodega/Index.cshtml]
+[C:/SistemaInventario/SistemaInventario/SistemaInventario/Areas/Admin/Views/Bodega/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQm9kZWdhXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Proyectos_UDEMY/SistemaInventario/SistemaInventario/Areas/Admin/Views/Bodega/Upsert.cshtml]
+[C:/SistemaInventario/SistemaInventario/SistemaInventario/Areas/Admin/Views/Bodega/Upsert.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQm9kZWdhXFVwc2VydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Proyectos_UDEMY/SistemaInventario/SistemaInventario/Areas/Admin/Views/_ViewImports.cshtml]
+[C:/SistemaInventario/SistemaInventario/SistemaInventario/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Proyectos_UDEMY/SistemaInventario/SistemaInventario/Areas/Admin/Views/_ViewStart.cshtml]
+[C:/SistemaInventario/SistemaInventario/SistemaInventario/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Proyectos_UDEMY/SistemaInventario/SistemaInventario/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/SistemaInventario/SistemaInventario/SistemaInventario/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Proyectos_UDEMY/SistemaInventario/SistemaInventario/Areas/Inventario/Views/Home/Index.cshtml]
+[C:/SistemaInventario/SistemaInventario/SistemaInventario/Areas/Inventario/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSW52ZW50YXJpb1xWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Proyectos_UDEMY/SistemaInventario/SistemaInventario/Areas/Inventario/Views/Home/Privacy.cshtml]
+[C:/SistemaInventario/SistemaInventario/SistemaInventario/Areas/Inventario/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSW52ZW50YXJpb1xWaWV3c1xIb21lXFByaXZhY3kuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Proyectos_UDEMY/SistemaInventario/SistemaInventario/Areas/Inventario/Views/_ViewImports.cshtml]
+[C:/SistemaInventario/SistemaInventario/SistemaInventario/Areas/Inventario/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSW52ZW50YXJpb1xWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Proyectos_UDEMY/SistemaInventario/SistemaInventario/Areas/Inventario/Views/_ViewStart.cshtml]
+[C:/SistemaInventario/SistemaInventario/SistemaInventario/Areas/Inventario/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSW52ZW50YXJpb1xWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Proyectos_UDEMY/SistemaInventario/SistemaInventario/Views/Shared/Error.cshtml]
+[C:/SistemaInventario/SistemaInventario/SistemaInventario/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Proyectos_UDEMY/SistemaInventario/SistemaInventario/Views/Shared/_BotonesActualizarYRegresar.cshtml]
+[C:/SistemaInventario/SistemaInventario/SistemaInventario/Views/Shared/_BotonesActualizarYRegresar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Cb3RvbmVzQWN0dWFsaXphcllSZWdyZXNhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Proyectos_UDEMY/SistemaInventario/SistemaInventario/Views/Shared/_BotonesCrearYRegresar.cshtml]
+[C:/SistemaInventario/SistemaInventario/SistemaInventario/Views/Shared/_BotonesCrearYRegresar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Cb3RvbmVzQ3JlYXJZUmVncmVzYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Proyectos_UDEMY/SistemaInventario/SistemaInventario/Views/Shared/_LoginPartial.cshtml]
+[C:/SistemaInventario/SistemaInventario/SistemaInventario/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Proyectos_UDEMY/SistemaInventario/SistemaInventario/Views/Shared/_Notificaciones.cshtml]
+[C:/SistemaInventario/SistemaInventario/SistemaInventario/Views/Shared/_Notificaciones.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYWNpb25lcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Proyectos_UDEMY/SistemaInventario/SistemaInventario/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/SistemaInventario/SistemaInventario/SistemaInventario/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Proyectos_UDEMY/SistemaInventario/SistemaInventario/Views/_ViewImports.cshtml]
+[C:/SistemaInventario/SistemaInventario/SistemaInventario/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Proyectos_UDEMY/SistemaInventario/SistemaInventario/Views/_ViewStart.cshtml]
+[C:/SistemaInventario/SistemaInventario/SistemaInventario/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Proyectos_UDEMY/SistemaInventario/SistemaInventario/Views/Shared/_Layout.cshtml]
+[C:/SistemaInventario/SistemaInventario/SistemaInventario/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-71nz6p6yz0

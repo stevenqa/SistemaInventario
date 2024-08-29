@@ -27,23 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\XPC\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\steve\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Proyectos_UDEMY\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
+      "projectUniqueName": "C:\\SistemaInventario\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
       "projectName": "SistemaInventario.Modelos",
-      "projectPath": "C:\\Proyectos_UDEMY\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
-      "packagesPath": "C:\\Users\\XPC\\.nuget\\packages\\",
-      "outputPath": "C:\\Proyectos_UDEMY\\SistemaInventario\\SistemaInventario.Modelos\\obj\\",
+      "projectPath": "C:\\SistemaInventario\\SistemaInventario\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
+      "packagesPath": "C:\\Users\\steve\\.nuget\\packages\\",
+      "outputPath": "C:\\SistemaInventario\\SistemaInventario\\SistemaInventario.Modelos\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\XPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\steve\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,8 +54,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Proyectos_UDEMY\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
-              "projectPath": "C:\\Proyectos_UDEMY\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
+            "C:\\SistemaInventario\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
+              "projectPath": "C:\\SistemaInventario\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
             }
           }
         }
@@ -94,7 +90,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
